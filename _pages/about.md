@@ -28,7 +28,7 @@ I am an PhD Student at the [School of Cyber Science and Engineering, Huazhong Un
 
 **Hang Zhou**, Junqing Yu, Wei Yang
 
-[**Project**](https://github.com/henrryzh1/UR-DMU) <strong><span class='show_paper_citations' data='mB7VifEAAAAJ&hl=zh-CN:ALROH1vI_8AC'></span></strong>
+[**Project**](https://github.com/henrryzh1/UR-DMU) <strong><span class='show_paper_citations' data='mB7VifEAAAAJ:u-x6o8ySG0sC'></span></strong>
 - We propose an Uncertainty Regulated Dual Memory Units (UR-DMU) model to learn both the representations of normal data and discriminative features of abnormal data.. 
 </div>
 </div>
