@@ -64,8 +64,7 @@ YuTeng Ye, Jiale Cai, **Hang Zhou**, Guanwen Li, Youjia Zhang, Zikai Song, Chenx
 [Attacking Transformers with Feature Diversity Adversarial Perturbation](https://ojs.aaai.org/index.php/AAAI/article/view/27947)
 
 Chenxing Gao, **Hang Zhou**, Junqing Yu, YuTeng Ye, Jiale Cai, Junle Wang, Wei Yang
-
-[**Project**](https://github.com/babahui/Progressive-Text-to-Image) <strong><span class='show_paper_citations' data='mB7VifEAAAAJ:qjMakFHDy7sC'></span></strong>
+<strong><span class='show_paper_citations' data='mB7VifEAAAAJ:qjMakFHDy7sC'></span></strong>
 - We present a label-free white-box attack approach for ViT-based models that exhibits strong transferability to various black-box models by accelerating the feature collapse.
 </div>
 </div>
