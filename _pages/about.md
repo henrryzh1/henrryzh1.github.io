@@ -21,7 +21,7 @@ I am an PhD Student at the [School of Cyber Science and Engineering, Huazhong Un
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2023 (oral)</div><img src='images/UR_DMU.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2023 (oral)</div><img src='images/dmu.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Dual memory units with uncertainty regulation for weakly supervised video anomaly detection](https://ojs.aaai.org/index.php/AAAI/article/view/25489)
