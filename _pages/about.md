@@ -66,7 +66,7 @@ YuTeng Ye, Jiale Cai, **Hang Zhou**, Guanwen Li, Youjia Zhang, Zikai Song, Chenx
 Chenxing Gao, **Hang Zhou**, Junqing Yu, YuTeng Ye, Jiale Cai, Junle Wang, Wei Yang
 
 [**Project**](https://github.com/babahui/Progressive-Text-to-Image) <strong><span class='show_paper_citations' data='mB7VifEAAAAJ:qjMakFHDy7sC'></span></strong>
-- We propose to harness the capabilities of a Large Language Model (LLM) to decompose text descriptions into coherent directives adhering to stringent formats and progressively generate the target image.
+- We present a label-free white-box attack approach for ViT-based models that exhibits strong transferability to various black-box models by accelerating the feature collapse.
 </div>
 </div>
 
