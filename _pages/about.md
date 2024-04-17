@@ -40,7 +40,7 @@ I am an PhD Student at the [School of Cyber Science and Engineering, Huazhong Un
 
 
 # 📖 Educations
-- *2014.09 - 2018.06 (now)*, Undergraduate, Wuhan Institute of Technology. 
+- *2014.09 - 2018.06*, Undergraduate, Wuhan Institute of Technology. 
 - *2018.09 - 2021.06*, Master, Jiangsu University.
 - *2021.09 - now*, Ph.D, Huazhong University of Science and Technology. 
 
