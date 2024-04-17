@@ -21,15 +21,15 @@ I am an PhD Student at the [School of Cyber Science and Engineering, Huazhong Un
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2023</div><img src='images/ur-dmu.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2023 (oral)</div><img src='images/UR_DMU.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Dual memory units with uncertainty regulation for weakly supervised video anomaly detection](https://ojs.aaai.org/index.php/AAAI/article/view/25489)
 
 **Hang Zhou**, Junqing Yu, Wei Yang
 
-[**Project**](https://github.com/henrryzh1/UR-DMU) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+[**Project**](https://github.com/henrryzh1/UR-DMU) <strong><span class='show_paper_citations' data='mB7VifEAAAAJ&hl=zh-CN:ALROH1vI_8AC'></span></strong>
+- We propose an Uncertainty Regulated Dual Memory Units (UR-DMU) model to learn both the representations of normal data and discriminative features of abnormal data.. 
 </div>
 </div>
 
