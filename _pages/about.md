@@ -44,7 +44,3 @@ I am an PhD Student at the [School of Cyber Science and Engineering, Huazhong Un
 - *2018.09 - 2021.06*, Master, Jiangsu University.
 - *2021.09 - now*, Ph.D, Huazhong University of Science and Technology. 
 
-
-
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
