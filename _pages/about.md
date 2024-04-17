@@ -17,11 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am an PhD Student at the [School of Cyber Science and Engineering, Huazhong University of Science and Technology](https://cse.hust.edu.cn/), in the [HUST Media Lab](http://media.hust.edu.cn). I major in Computer Science and my research interests lie in the areas of computer vision, video understanding, and anomaly detection.
+I am a PhD Student at the [School of Cyber Science and Engineering, Huazhong University of Science and Technology](https://cse.hust.edu.cn/), in the [HUST Media Lab](http://media.hust.edu.cn). I major in Computer Science and my research interests lie in the areas of computer vision, video understanding, and anomaly detection.
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2023 (oral)</div><img src='images/dmu.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2023(oral)</div><img src='images/dmu.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Dual memory units with uncertainty regulation for weakly supervised video anomaly detection](https://ojs.aaai.org/index.php/AAAI/article/view/25489)
@@ -29,7 +29,44 @@ I am an PhD Student at the [School of Cyber Science and Engineering, Huazhong Un
 **Hang Zhou**, Junqing Yu, Wei Yang
 
 [**Project**](https://github.com/henrryzh1/UR-DMU) <strong><span class='show_paper_citations' data='mB7VifEAAAAJ:u-x6o8ySG0sC'></span></strong>
-- We propose an Uncertainty Regulated Dual Memory Units (UR-DMU) model to learn both the representations of normal data and discriminative features of abnormal data.. 
+- We propose an Uncertainty Regulated Dual Memory Units (UR-DMU) model to learn both the representations of normal data and discriminative features of abnormal data.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2024</div><img src='images/reid.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Dynamic feature pruning and consolidation for occluded person re-identification](https://ojs.aaai.org/index.php/AAAI/article/view/28491)
+
+YuTeng Ye, **Hang Zhou**, Jiale Cai, Chenxing Gao, Youjia Zhang, Junle Wang, Qiang Hu, Junqing Yu, Wei Yang
+
+[**Project**](https://github.com/babahui/FPC) <strong><span class='show_paper_citations' data='mB7VifEAAAAJ:d1gkVwhDpl0C'></span></strong>
+- We propose a Feature Pruning and Consolidation (FPC) framework to circumvent explicit human structure parse, which consists of a sparse encoder, a global and local feature ranking module, and a feature consolidation decoder.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2024</div><img src='images/pt2i.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Progressive Text-to-Image Diffusion with Soft Latent Direction](https://ojs.aaai.org/index.php/AAAI/article/view/28492)
+
+YuTeng Ye, Jiale Cai, **Hang Zhou**, Guanwen Li, Youjia Zhang, Zikai Song, Chenxing Gao, Junqing Yu, Wei Yang
+
+[**Project**](https://github.com/babahui/Progressive-Text-to-Image) <strong><span class='show_paper_citations' data='mB7VifEAAAAJ:9yKSN-GCB0IC'></span></strong>
+- We propose to harness the capabilities of a Large Language Model (LLM) to decompose text descriptions into coherent directives adhering to stringent formats and progressively generate the target image.
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2024</div><img src='images/fdap.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Attacking Transformers with Feature Diversity Adversarial Perturbation](https://ojs.aaai.org/index.php/AAAI/article/view/27947)
+
+Chenxing Gao, **Hang Zhou**, Junqing Yu, YuTeng Ye, Jiale Cai, Junle Wang, Wei Yang
+
+[**Project**](https://github.com/babahui/Progressive-Text-to-Image) <strong><span class='show_paper_citations' data='mB7VifEAAAAJ:qjMakFHDy7sC'></span></strong>
+- We propose to harness the capabilities of a Large Language Model (LLM) to decompose text descriptions into coherent directives adhering to stringent formats and progressively generate the target image.
 </div>
 </div>
 
