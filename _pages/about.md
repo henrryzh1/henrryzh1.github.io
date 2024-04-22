@@ -72,7 +72,7 @@ Chenxing Gao, **Hang Zhou**, Junqing Yu, YuTeng Ye, Jiale Cai, Junle Wang, Wei Y
 
 # 🎖 Honors and Awards
 - *2021.06*: outstanding master's thesis
-- Reviewer: CVPR23, TMM
+- Reviewer: CVPR24, TMM
 
 
 # 📖 Educations
