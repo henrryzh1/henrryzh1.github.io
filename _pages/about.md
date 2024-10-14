@@ -69,6 +69,16 @@ Chenxing Gao, **Hang Zhou**, Junqing Yu, YuTeng Ye, Jiale Cai, Junle Wang, Wei Y
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NIPS 2024</div><img src='images/cpssm.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Coupled Mamba: Enhanced Multi-modal Fusion with Coupled State Space Model](https://arxiv.org/abs/2405.18014)
+
+Wenbing Li, **Hang Zhou**, Junqing Yu, Zikai Song, Wei Yang
+<strong><span class='show_paper_citations' data='mB7VifEAAAAJ:qjMakFHDy7sC'></span></strong>
+- We present the Coupled SSM model, which enhances multi-modal fusion by coupling state chains while maintaining intra-modality independence, achieving superior performance and efficiency..
+</div>
+</div>
 
 # 🎖 Honors and Awards
 - *2021.06*: outstanding master's thesis
