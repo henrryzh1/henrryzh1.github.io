@@ -21,7 +21,7 @@ I am a PhD Student at the [School of Cyber Science and Engineering, Huazhong Uni
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='images/MA-DPM.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='images/MA-PDM.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Video Anomaly Detection with Motion and Appearance Guided Patch Diffusion Model
