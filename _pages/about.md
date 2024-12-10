@@ -21,6 +21,28 @@ I am a PhD Student at the [School of Cyber Science and Engineering, Huazhong Uni
 
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='images/MA-DPM.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Video Anomaly Detection with Motion and Appearance Guided Patch Diffusion Model
+
+**Hang Zhou**, Jiale Cai, Yuteng Ye, Yonghui Feng, Chenxing Gao, Junqing Yu, Zikai Song, Wei Yang
+- We propose a patch-based diffusion model integrated with motion and appearance conditions to capture fine-grained local information while simultaneously addressing anomalies in both appearance and motion, thereby enhancing anomaly detection accuracy.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NIPS 2024</div><img src='images/cpssm.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Coupled Mamba: Enhanced Multi-modal Fusion with Coupled State Space Model](https://arxiv.org/abs/2405.18014)
+
+Wenbing Li, **Hang Zhou**, Junqing Yu, Zikai Song, Wei Yang
+<strong><span class='show_paper_citations' data='mB7VifEAAAAJ:qjMakFHDy7sC'></span></strong>
+- We present the Coupled SSM model, which enhances multi-modal fusion by coupling state chains while maintaining intra-modality independence, achieving superior performance and efficiency.
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2023(oral)</div><img src='images/dmu.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -69,16 +91,7 @@ Chenxing Gao, **Hang Zhou**, Junqing Yu, YuTeng Ye, Jiale Cai, Junle Wang, Wei Y
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NIPS 2024</div><img src='images/cpssm.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
 
-[Coupled Mamba: Enhanced Multi-modal Fusion with Coupled State Space Model](https://arxiv.org/abs/2405.18014)
-
-Wenbing Li, **Hang Zhou**, Junqing Yu, Zikai Song, Wei Yang
-<strong><span class='show_paper_citations' data='mB7VifEAAAAJ:qjMakFHDy7sC'></span></strong>
-- We present the Coupled SSM model, which enhances multi-modal fusion by coupling state chains while maintaining intra-modality independence, achieving superior performance and efficiency..
-</div>
-</div>
 
 # 🎖 Honors and Awards
 - *2021.06*: outstanding master's thesis
