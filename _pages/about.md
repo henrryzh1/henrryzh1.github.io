@@ -24,9 +24,11 @@ I am a PhD Student at the [School of Cyber Science and Engineering, Huazhong Uni
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='images/MA-PDM.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Video Anomaly Detection with Motion and Appearance Guided Patch Diffusion Model
+[Video Anomaly Detection with Motion and Appearance Guided Patch Diffusion Model](https://arxiv.org/abs/2412.09026)
 
 **Hang Zhou**, Jiale Cai, Yuteng Ye, Yonghui Feng, Chenxing Gao, Junqing Yu, Zikai Song, Wei Yang
+
+[**Project**](https://github.com/henrryzh1/MA-PDM)
 - We propose a patch-based diffusion model integrated with motion and appearance conditions to capture fine-grained local information while simultaneously addressing anomalies in both appearance and motion, thereby enhancing anomaly detection accuracy.
 </div>
 </div>
@@ -39,19 +41,6 @@ Video Anomaly Detection with Motion and Appearance Guided Patch Diffusion Model
 Wenbing Li, **Hang Zhou**, Junqing Yu, Zikai Song, Wei Yang
 <strong><span class='show_paper_citations' data='mB7VifEAAAAJ:qjMakFHDy7sC'></span></strong>
 - We present the Coupled SSM model, which enhances multi-modal fusion by coupling state chains while maintaining intra-modality independence, achieving superior performance and efficiency.
-</div>
-</div>
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2023(oral)</div><img src='images/dmu.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Dual memory units with uncertainty regulation for weakly supervised video anomaly detection](https://ojs.aaai.org/index.php/AAAI/article/view/25489)
-
-**Hang Zhou**, Junqing Yu, Wei Yang
-
-[**Project**](https://github.com/henrryzh1/UR-DMU) <strong><span class='show_paper_citations' data='mB7VifEAAAAJ:u-x6o8ySG0sC'></span></strong>
-- We propose an Uncertainty Regulated Dual Memory Units (UR-DMU) model to learn both the representations of normal data and discriminative features of abnormal data.
 </div>
 </div>
 
@@ -91,11 +80,22 @@ Chenxing Gao, **Hang Zhou**, Junqing Yu, YuTeng Ye, Jiale Cai, Junle Wang, Wei Y
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2023(oral)</div><img src='images/dmu.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Dual memory units with uncertainty regulation for weakly supervised video anomaly detection](https://ojs.aaai.org/index.php/AAAI/article/view/25489)
+
+**Hang Zhou**, Junqing Yu, Wei Yang
+
+[**Project**](https://github.com/henrryzh1/UR-DMU) <strong><span class='show_paper_citations' data='mB7VifEAAAAJ:u-x6o8ySG0sC'></span></strong>
+- We propose an Uncertainty Regulated Dual Memory Units (UR-DMU) model to learn both the representations of normal data and discriminative features of abnormal data.
+</div>
+</div>
 
 
 # 🎖 Honors and Awards
 - *2021.06*: outstanding master's thesis
-- Reviewer: CVPR24, TMM
+- Reviewer: CVPR, AAAI, ACMMM, TMM
 
 
 # 📖 Educations
